@@ -16,23 +16,13 @@
 ---
 
 ## **🚀 About Me**
-- 🔭 **Currently working on:** [Investment Website](#)
 - 🌱 **Hobbies:** Coding, Video games, Music.
 - 🎯 **Goals for 2025:** Build a successful SaaS project!
-- 👨‍💻 **My Portfolio:** [Visit Here](https://yourportfolio.com)
+- 👨‍💻 **My Portfolio:** [Visit Here](https://www.linkedin.com/in/devFiend/)
 - 💬 **Ask me about:** JavaScript, React, Node.js, APIs, Web Development
-- 🎵 **Now Playing:**  
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default" width="300">
-
+  
 ---
 
-## **🚀 Work in Progress**
-- ✅ Emergency Blood Donor Finder App  
-- 🚀 Social Media Video Downloader  
-- 🔥 Viral Shorts Repurposer SaaS  
-- 🎯 Face Verification Attendance App  
-
----
 
 ## **🌍 GitHub Stats**
 <p align="center">
@@ -52,34 +42,15 @@
 ---
 
 ## **🛠️ Tech Stack & Tools**
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<p align="center"> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" /> 
 </p>
-
----
-
-## **📌 Pinned Repos**
-<p align="center">
-  <a href="https://github.com/your-github-devFiend/Event-Ticket-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?devFiend=your-github-devFiend&repo=Event-Tickey-App&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/your-github-devFiend/URL-Shortner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?devFiend=your-github-devFiend&repo=URL-Shortner&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-## **📜 Latest Tweets Posts**
-<!-- BLOG-POST-LIST:START -->
-- [🚀 How I Built an Emergency Blood Donor App](https://yourblog.com)
-- [🔥 Top 5 Tools Every Developer Needs](https://yourblog.com)
-- [💡 The Future of AI in Web Development](https://yourblog.com)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -87,6 +58,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devFiend&style=flat-square&color=blue" />
 </p>
+
+---
+
+## **📬 Contact Me**
+- 📧 Email: [ezekielmatthew28@gmail.com](mailto:ezekielmatthew@8@gmail.com)
 
 ---
 
