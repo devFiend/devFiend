@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://your-banner-image-url" alt="Matthew Abana Ezekiel | Web Developer" width="100%" />
-</p>
-
 <h1 align="center">Hi there, I'm Matthew 👋</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -29,7 +25,7 @@
 - 🎯 **Goals:** Master Solidity security and scale my side projects.
 - ⚡ **Fun Fact:** I can debug code in my sleep (literally).
 - 💬 **Ask me about:** React, Node.js, Smart Contracts, and APIs.
-- 👨‍💻 **Portfolio:** [Check out my work here](https://www.linkedin.com/in/devFiend/)
+- 👨‍💻 **Portfolio:** [Check out my work here](https://www.matthewezekiel.online)
 
 ---
 
