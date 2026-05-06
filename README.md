@@ -1,71 +1,20 @@
-<h1 align="center">Hi there, I'm Matthew 👋</h1>
+<h1 align="center">Matthew Abana Ezekiel</h1>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Mobile+App+Developer+(React+Native);Blockchain+%26+Solidity+Enthusiast;Building+Scalable+SaaS+Products" alt="Typing SVG" />
+  <strong>Senior Frontend Engineer • Fullstack Developer • SaaS Architect</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.matthewezekiel.online">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/devFiend/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ezekielmatthew28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
-</p>
-
----
-
-<div align="center">
-
-## 🚀 About Me
-</div>
-
-<p align="center">
-  <em>"Turning coffee into code and ideas into reality."</em>
-</p>
-
-- 🔭 **I’m currently working on:** A SaaS project for 2025.
-- 🌱 **My Tech Focus:** React Native, TypeScript, and Web3 Integration.
-- 🎯 **Goals:** Master Solidity security and scale my side projects.
-- ⚡ **Fun Fact:** I can debug code in my sleep (literally).
-- 💬 **Ask me about:** React, Node.js, Smart Contracts, and APIs.
-- 👨‍💻 **Portfolio:** [Check out my work here](https://www.matthewezekiel.online)
-
----
-
-## 🛠️ Tech Stack & Arsenal
-
-<div align="center">
-
-### **Languages**
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-
-### **Frontend & Mobile**
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-### **Backend & Database**
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=devFiend&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devFiend&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </p>
-  
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devFiend&theme=tokyonight" width="100%"/>
-  </p>
-</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devFiend&style=flat-square&color=blue&label=Profile+Views" />
@@ -73,14 +22,146 @@
 
 ---
 
-## 🤝 Let's Connect
+## 🚀 Professional Overview
 
-<div align="center">
+> Building high-performance SaaS platforms, fintech systems, and AI-powered products used in real-world environments.
 
-| Social | Link |
-| :---: | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devFiend/) |
-| **Twitter** | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thedevfiend) |
-| **Email** | [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ezekielmatthew28@gmail.com) |
+I am a **Senior Software Engineer** specializing in designing and delivering scalable, production-grade applications across fintech, crowdfunding, and AI-driven platforms.
 
-</div>
+My strength lies in combining **deep engineering fundamentals** with **modern frontend systems** to create products that are performant, secure, and user-focused.
+
+---
+
+## 🧠 Core Capabilities
+
+| Domain | Expertise |
+|--------|----------|
+| **Frontend Engineering** | React, TypeScript, Next.js, UI Systems |
+| **Backend Systems** | Node.js, Express, API Architecture |
+| **SaaS Platforms** | Dashboards, analytics, multi-tenant systems |
+| **FinTech & Payments** | Crypto (TRON), Stripe, secure transactions |
+| **Security** | JWT, OAuth, 2FA, KYC systems |
+| **Performance** | Optimization, caching, scalable architecture |
+
+---
+
+## 🚀 Featured Product
+
+### 🤖 IngageAI — AI Content & Engagement Engine
+
+> A system designed to turn ideas into high-performing content at scale.
+
+- Built for **creators, founders, and professionals**
+- Focused on **engagement, visibility, and conversion**
+- Designed with a **product-first, performance-driven approach**
+
+**Stack:** React • TypeScript • Node.js • AI APIs  
+**Status:** 🟢 Actively Building  
+
+---
+
+## 💼 Professional Experience
+
+### 🧑‍💻 Senior Software Engineer — SendHelp (Contract)  
+**Apr 2026 – Present • Remote (Ghana)**
+
+- Architected a **full-scale crowdfunding platform** (sendhelp.io)  
+- Built end-to-end system: frontend, admin dashboard, payment engine  
+- Designed backend using **Node.js, Prisma, MySQL**  
+
+**Key Impact:**
+- Integrated **TRON (TRX) crypto payments** with real-time tracking  
+- Built **KYC verification system + multi-layer security (JWT, OAuth, 2FA)**  
+- Developed **custom analytics engine (UTM, funnels, geo tracking)**  
+- Engineered **SEO system for dynamic OG/meta optimization**  
+- Implemented **real-time notifications (Socket.io + email system)**  
+
+---
+
+### 🧑‍💻 Senior Frontend Developer — Sizemug (Contract)  
+**Dec 2025 – Present • Remote (UK)**
+
+- Built and optimized **high-performance React + TypeScript interfaces**  
+- Delivered scalable, maintainable frontend architecture  
+- Debugged and resolved complex UI/system issues  
+
+---
+
+### 🧑‍💻 Senior Software Engineer — Empathy Action  
+**Jul 2025 – Apr 2026 • Remote (Ghana)**
+
+- Built a **crypto-powered fundraising platform from scratch**  
+- Developed full system: auth, dashboard, campaign engine  
+
+**Key Impact:**
+- Designed reusable **component-based UI system**  
+- Integrated **Web3 payments + wallet logic**  
+- Implemented **state persistence + onboarding flow recovery**  
+- Optimized performance with **lazy loading & efficient state management**  
+
+---
+
+### 🧑‍💻 Software Engineer — AutoReview.AI  
+**Jun 2025 – Aug 2025 • Remote (Netherlands)**
+
+- Built a **full SaaS platform end-to-end**  
+- Implemented **Stripe payments, auth, analytics, API integrations**  
+- Focused on performance, scalability, and production readiness  
+
+---
+
+### 🌍 WordPress Developer — RecaGift Foundation  
+**Aug 2024 – Nov 2025**
+
+- Built and maintained NGO website  
+- Implemented **SEO, donation systems, and performance optimization**  
+- Supported social impact initiatives through technology  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mysql,mongodb,tailwind,figma,git" />
+</p>
+
+---
+
+## 📌 Selected Systems & Projects
+
+- **IngageAI** — AI-powered content generation engine  
+- **SendHelp** — Crowdfunding platform with crypto payments  
+- **Empathy Action** — Web3 fundraising system  
+- **Autodraft Suite** — SaaS analytics & customer dashboard  
+- **SecretBox** — Anonymous messaging platform  
+- **Real-time Chat Engine** — WebSocket messaging system  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devFiend&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devFiend&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devFiend&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Contact
+
+<p align="center">
+
+📧 ezekielmatthew28@gmail.com  
+🔗 https://www.linkedin.com/in/devFiend/  
+🌐 https://www.matthewezekiel.online  
+
+</p>
+
+---
