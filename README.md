@@ -24,11 +24,9 @@
 
 ## 🚀 Professional Overview
 
-> Building high-performance SaaS platforms, fintech systems, and AI-powered products used in real-world environments.
+> I design and build performant SaaS products, fintech systems, and AI-powered experiences that solve real-world business problems.
 
-I am a **Senior Software Engineer** specializing in designing and delivering scalable, production-grade applications across fintech, crowdfunding, and AI-driven platforms.
-
-My strength lies in combining **deep engineering fundamentals** with **modern frontend systems** to create products that are performant, secure, and user-focused.
+I am a Senior Software Engineer with a strong focus on scalable web platforms, product architecture, and polished user experiences. My work bridges frontend engineering, backend systems, and product strategy to build secure, high-performing digital products that are easy to use and reliable in production.
 
 ---
 
@@ -36,12 +34,12 @@ My strength lies in combining **deep engineering fundamentals** with **modern fr
 
 | Domain | Expertise |
 |--------|----------|
-| **Frontend Engineering** | React, TypeScript, Next.js, UI Systems |
-| **Backend Systems** | Node.js, Express, API Architecture |
-| **SaaS Platforms** | Dashboards, analytics, multi-tenant systems |
-| **FinTech & Payments** | Crypto (TRON), Stripe, secure transactions |
-| **Security** | JWT, OAuth, 2FA, KYC systems |
-| **Performance** | Optimization, caching, scalable architecture |
+| **Frontend Engineering** | React, TypeScript, Next.js, Product UI Systems |
+| **Backend Systems** | Node.js, Express, API Design, Prisma, MySQL |
+| **SaaS Platforms** | Dashboards, analytics, multi-tenant products |
+| **FinTech & Payments** | Stripe, TRON (TRX), wallet flows, secure transactions |
+| **Security** | JWT, OAuth, 2FA, KYC, access controls |
+| **Performance** | System optimization, caching, scalable architecture |
 
 ---
 
@@ -49,80 +47,80 @@ My strength lies in combining **deep engineering fundamentals** with **modern fr
 
 ### 🤖 IngageAI — AI Content & Engagement Engine
 
-> A system designed to turn ideas into high-performing content at scale.
+> Turning raw ideas into high-performing content at scale.
 
-- Built for **creators, founders, and professionals**
-- Focused on **engagement, visibility, and conversion**
-- Designed with a **product-first, performance-driven approach**
+- Built for creators, founders, and professionals
+- Focused on engagement, reach, and conversion
+- Designed with a product-first, data-informed approach
 
 **Stack:** React • TypeScript • Node.js • AI APIs  
-**Status:** 🟢 Actively Building  
+**Status:** 🟢 Actively Building
 
 ---
 
 ## 💼 Professional Experience
 
-### 🧑‍💻 Senior Software Engineer — SendHelp (Contract)  
+### 🧑‍💻 Senior Software Engineer — SendHelp (Contract)
 **Apr 2026 – Present • Remote (Ghana)**
 
-- Architected a **full-scale crowdfunding platform** (sendhelp.io)  
-- Built end-to-end system: frontend, admin dashboard, payment engine  
-- Designed backend using **Node.js, Prisma, MySQL**  
+- Architected and delivered a full-scale crowdfunding platform for sendhelp.io
+- Built the end-to-end system across frontend, admin dashboard, and payment workflow
+- Designed the backend with Node.js, Prisma, and MySQL
 
 **Key Impact:**
-- Integrated **TRON (TRX) crypto payments** with real-time tracking  
-- Built **KYC verification system + multi-layer security (JWT, OAuth, 2FA)**  
-- Developed **custom analytics engine (UTM, funnels, geo tracking)**  
-- Engineered **SEO system for dynamic OG/meta optimization**  
-- Implemented **real-time notifications (Socket.io + email system)**  
+- Integrated TRON (TRX) crypto payments with real-time transaction tracking
+- Built a KYC verification flow with layered security using JWT, OAuth, and 2FA
+- Developed a custom analytics engine for UTM tracking, funnels, and geo insights
+- Engineered dynamic SEO and OG/meta optimization for campaign pages
+- Implemented real-time notifications using Socket.io and an email delivery system
 
 ---
 
-### 🧑‍💻 Senior Frontend Developer — Sizemug (Contract)  
+### 🧑‍💻 Senior Frontend Developer — Sizemug (Contract)
 **Dec 2025 – Present • Remote (UK)**
 
-- Built and optimized **high-performance React + TypeScript interfaces**  
-- Delivered scalable, maintainable frontend architecture  
-- Debugged and resolved complex UI/system issues  
+- Built and optimized high-performance React + TypeScript interfaces
+- Delivered scalable frontend architecture with maintainability in mind
+- Diagnosed and resolved complex UI and system-level issues under product constraints
 
 ---
 
-### 🧑‍💻 Senior Software Engineer — Empathy Action  
+### 🧑‍💻 Senior Software Engineer — Empathy Action
 **Jul 2025 – Apr 2026 • Remote (Ghana)**
 
-- Built a **crypto-powered fundraising platform from scratch**  
-- Developed full system: auth, dashboard, campaign engine  
+- Built a crypto-powered fundraising platform from the ground up
+- Delivered the complete product stack including auth, dashboard, and campaign engine
 
 **Key Impact:**
-- Designed reusable **component-based UI system**  
-- Integrated **Web3 payments + wallet logic**  
-- Implemented **state persistence + onboarding flow recovery**  
-- Optimized performance with **lazy loading & efficient state management**  
+- Designed reusable component-driven UI architecture
+- Integrated Web3 payments and wallet logic
+- Added onboarding recovery and persistent app state flows
+- Improved performance through lazy loading and efficient state management
 
 ---
 
-### 🧑‍💻 Software Engineer — AutoReview.AI  
+### 🧑‍💻 Software Engineer — AutoReview.AI
 **Jun 2025 – Aug 2025 • Remote (Netherlands)**
 
-- Built a **full SaaS platform end-to-end**  
-- Implemented **Stripe payments, auth, analytics, API integrations**  
-- Focused on performance, scalability, and production readiness  
+- Built a full SaaS platform end-to-end
+- Implemented Stripe payments, authentication, analytics, and API integrations
+- Focused on production readiness, scalability, and performance
 
 ---
 
-### 🌍 WordPress Developer — RecaGift Foundation  
+### 🌍 WordPress Developer — RecaGift Foundation
 **Aug 2024 – Nov 2025**
 
-- Built and maintained NGO website  
-- Implemented **SEO, donation systems, and performance optimization**  
-- Supported social impact initiatives through technology  
+- Built and maintained the NGO website
+- Implemented SEO, donation flows, and performance optimization
+- Supported social-impact initiatives through digital transformation
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mysql,mongodb,tailwind,figma,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mysql,mongodb,tailwind,figma,git" />
 </p>
 
 ---
@@ -134,7 +132,7 @@ My strength lies in combining **deep engineering fundamentals** with **modern fr
 - **Empathy Action** — Web3 fundraising system  
 - **Autodraft Suite** — SaaS analytics & customer dashboard  
 - **SecretBox** — Anonymous messaging platform  
-- **Real-time Chat Engine** — WebSocket messaging system  
+- **Real-time Chat Engine** — WebSocket-based messaging system  
 
 ---
 
@@ -160,7 +158,7 @@ My strength lies in combining **deep engineering fundamentals** with **modern fr
 
 📧 ezekielmatthew28@gmail.com  
 🔗 https://www.linkedin.com/in/devFiend/  
-🌐 https://www.matthewezekiel.online  
+🌐 https://www.matthewezekiel.online
 
 </p>
 
